@@ -1,4 +1,5 @@
 fun main() {
+    println("@dobrodelete")
     val validInput = setOf("rock", "paper", "scissors")
 
     println("Welcome to Rock-Paper-Scissors game!\n")
